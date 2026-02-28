@@ -1,0 +1,680 @@
+{
+	"jobs": [
+		{
+			"id": "a1b2c3d4-0001-4000-8000-000000000001",
+			"title": "Email Marketing Specialist",
+			"company": "Revolut",
+			"companyLogoUrl": null,
+			"location": "Remote",
+			"category": "Marketing",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Marketing",
+				"Design"
+			],
+			"description": "Revolut is looking for an Email Marketing Specialist to help the team craft compelling campaigns that drive engagement and growth. We are looking for a talented Email Marketing Specialist to join the Revolut team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs an Email Marketing Specialist, you will be responsible for driving initiatives from concept through execution. You'll collaborate with product managers, engineers, and other stakeholders to align on priorities and deliver outstanding results.\n\nIn this role you will have the opportunity to make a real impact, mentor junior team members, and grow your skills in a fast-paced, collaborative environment.",
+			"requirements": [
+				"3+ years of experience in email marketing or digital marketing",
+				"Proficiency with email platforms (Klaviyo, Mailchimp, or similar)",
+				"Strong copywriting and communication skills",
+				"Experience with A/B testing and campaign optimization",
+				"Data-driven mindset with ability to derive insights from analytics",
+				"Familiarity with HTML/CSS for email template editing"
+			],
+			"benefits": [
+				"Competitive salary & equity",
+				"Flexible remote work",
+				"Private health insurance",
+				"Annual learning budget",
+				"Home office stipend",
+				"30 days paid leave"
+			],
+			"salary": "$60,000 – $80,000",
+			"isFeatured": true,
+			"createdAt": "2026-02-20T00:00:00.000Z",
+			"updatedAt": "2026-02-20T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0002-4000-8000-000000000002",
+			"title": "Brand Designer",
+			"company": "Dropbox",
+			"companyLogoUrl": null,
+			"location": "London, UK",
+			"category": "Design",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Design",
+				"Business"
+			],
+			"description": "Dropbox is seeking a Brand Designer to shape and evolve the visual identity of one of the world's leading file-sharing platforms. We are looking for a talented Brand Designer to join the Dropbox team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Brand Designer, you will be responsible for driving initiatives from concept through execution. You'll collaborate with product managers, engineers, and other stakeholders to align on priorities and deliver outstanding results.",
+			"requirements": [
+				"5+ years of brand design experience",
+				"Expert knowledge of Figma and Adobe Creative Suite",
+				"Portfolio showcasing strong brand identity work",
+				"Experience working with global design systems",
+				"Excellent communication and presentation skills",
+				"Ability to manage multiple projects in a fast-paced environment"
+			],
+			"benefits": [
+				"Competitive salary & RSUs",
+				"Flexible hybrid schedule",
+				"Comprehensive health coverage",
+				"Wellness reimbursement",
+				"Career development programs",
+				"Parental leave"
+			],
+			"salary": "$90,000 – $120,000",
+			"isFeatured": true,
+			"createdAt": "2026-02-18T00:00:00.000Z",
+			"updatedAt": "2026-02-18T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0003-4000-8000-000000000003",
+			"title": "Customer Success Manager",
+			"company": "Pitch",
+			"companyLogoUrl": null,
+			"location": "Berlin, Germany",
+			"category": "Operations",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Business",
+				"Marketing"
+			],
+			"description": "Pitch is looking for a Customer Success Manager to ensure clients achieve their goals and maximize value from our platform. We are looking for a talented Customer Success Manager to join the Pitch team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Customer Success Manager, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"3+ years in a customer success or account management role",
+				"Experience with SaaS products",
+				"Strong communication and relationship-building skills",
+				"Ability to analyze customer data and surface actionable insights",
+				"Familiarity with CRM tools (HubSpot, Salesforce)",
+				"Proactive problem-solving mindset"
+			],
+			"benefits": [
+				"Competitive salary",
+				"Stock options",
+				"Remote-friendly culture",
+				"Annual team retreats",
+				"Generous PTO",
+				"Learning & development budget"
+			],
+			"salary": "$70,000 – $95,000",
+			"isFeatured": false,
+			"createdAt": "2026-02-15T00:00:00.000Z",
+			"updatedAt": "2026-02-15T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0004-4000-8000-000000000004",
+			"title": "Visual Designer",
+			"company": "Blinklist",
+			"companyLogoUrl": null,
+			"location": "Manchester, UK",
+			"category": "Design",
+			"employmentType": "Contract",
+			"tags": [
+				"Design"
+			],
+			"description": "Blinklist is seeking a Visual Designer to create stunning visuals and illustrations for our rapidly growing content platform. We are looking for a talented Visual Designer to join the Blinklist team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Visual Designer, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"Portfolio demonstrating strong visual design sensibility",
+				"4+ years of visual or graphic design experience",
+				"Mastery of Figma, Illustrator, and Photoshop",
+				"Experience designing for digital products and web",
+				"Understanding of typography, color, and layout principles",
+				"Able to deliver high-quality work under deadline"
+			],
+			"benefits": [
+				"Competitive contract rate",
+				"Flexible working hours",
+				"Creative, supportive team",
+				"Option to convert to full-time",
+				"Remote-first"
+			],
+			"salary": "$60 – $80/hr",
+			"isFeatured": false,
+			"createdAt": "2026-02-12T00:00:00.000Z",
+			"updatedAt": "2026-02-12T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0005-4000-8000-000000000005",
+			"title": "Product Designer",
+			"company": "ClassPass",
+			"companyLogoUrl": null,
+			"location": "London, UK",
+			"category": "Design",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Design",
+				"Technology"
+			],
+			"description": "ClassPass is hiring a Product Designer to craft seamless user experiences across our fitness and wellness marketplace. We are looking for a talented Product Designer to join the ClassPass team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Product Designer, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"4+ years of product design experience",
+				"Strong UX research and prototyping skills",
+				"Experience designing for mobile (iOS and Android)",
+				"Expertise in Figma",
+				"Ability to translate complex user needs into elegant solutions",
+				"Experience working in agile teams"
+			],
+			"benefits": [
+				"Free ClassPass membership",
+				"Competitive compensation",
+				"Flexible work schedule",
+				"Health & dental insurance",
+				"401(k) matching",
+				"Professional development budget"
+			],
+			"salary": "$100,000 – $130,000",
+			"isFeatured": true,
+			"createdAt": "2026-02-10T00:00:00.000Z",
+			"updatedAt": "2026-02-10T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0006-4000-8000-000000000006",
+			"title": "Lead UX Designer",
+			"company": "Canva",
+			"companyLogoUrl": null,
+			"location": "Amsterdam, Netherlands",
+			"category": "Design",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Design",
+				"Business"
+			],
+			"description": "Canva is looking for a Lead UX Designer to guide design strategy and mentor a growing team of talented designers. We are looking for a talented Lead UX Designer to join the Canva team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Lead UX Designer, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"7+ years of UX design experience",
+				"Proven track record leading design teams",
+				"Deep expertise in user research methodologies",
+				"Experience with large-scale design systems",
+				"Excellent stakeholder communication skills",
+				"Data-informed design approach"
+			],
+			"benefits": [
+				"Above-market salary",
+				"Equity package",
+				"Global remote options",
+				"Home office budget",
+				"Generous parental leave",
+				"Health & wellness benefits"
+			],
+			"salary": "$130,000 – $160,000",
+			"isFeatured": true,
+			"createdAt": "2026-02-08T00:00:00.000Z",
+			"updatedAt": "2026-02-08T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0007-4000-8000-000000000007",
+			"title": "Brand Strategist",
+			"company": "GoDaddy",
+			"companyLogoUrl": null,
+			"location": "Remote",
+			"category": "Marketing",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Marketing",
+				"Business"
+			],
+			"description": "GoDaddy is hiring a Brand Strategist to develop and execute strategies that strengthen our global brand presence. We are looking for a talented Brand Strategist to join the GoDaddy team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Brand Strategist, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"5+ years in brand strategy or marketing",
+				"Strong analytical and creative thinking skills",
+				"Experience with market research and competitive analysis",
+				"Ability to influence and collaborate cross-functionally",
+				"Excellent written and verbal communication",
+				"Experience in tech or SaaS industry preferred"
+			],
+			"benefits": [
+				"Competitive salary",
+				"Performance bonuses",
+				"Remote flexibility",
+				"Comprehensive benefits package",
+				"Employee resource groups",
+				"Paid volunteer time"
+			],
+			"salary": "$85,000 – $110,000",
+			"isFeatured": false,
+			"createdAt": "2026-02-05T00:00:00.000Z",
+			"updatedAt": "2026-02-05T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0008-4000-8000-000000000008",
+			"title": "Data Analyst",
+			"company": "Twitter",
+			"companyLogoUrl": null,
+			"location": "Paris, France",
+			"category": "Data & Analytics",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Technology",
+				"Business"
+			],
+			"description": "Twitter is seeking a Data Analyst to transform complex datasets into actionable insights that drive product and business decisions. We are looking for a talented Data Analyst to join the Twitter team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Data Analyst, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"3+ years of data analysis experience",
+				"Proficiency in SQL and Python or R",
+				"Experience with BI tools (Tableau, Looker, or similar)",
+				"Ability to communicate findings clearly to non-technical stakeholders",
+				"Statistical analysis background",
+				"Experience with large-scale data pipelines"
+			],
+			"benefits": [
+				"Competitive salary",
+				"Equity grants",
+				"Medical, dental, vision coverage",
+				"Mental health support",
+				"Home office allowance",
+				"Unlimited PTO"
+			],
+			"salary": "$80,000 – $105,000",
+			"isFeatured": false,
+			"createdAt": "2026-02-03T00:00:00.000Z",
+			"updatedAt": "2026-02-03T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0009-4000-8000-000000000009",
+			"title": "Frontend Engineer",
+			"company": "Netlify",
+			"companyLogoUrl": null,
+			"location": "Amsterdam, Netherlands",
+			"category": "Engineering",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Technology",
+				"Engineering"
+			],
+			"description": "Netlify is looking for a Frontend Engineer to build exceptional web experiences and contribute to an industry-leading deployment platform. We are looking for a talented Frontend Engineer to join the Netlify team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Frontend Engineer, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"4+ years of frontend development experience",
+				"Expertise in React and TypeScript",
+				"Strong understanding of web performance optimization",
+				"Experience with CI/CD pipelines and deployment workflows",
+				"Knowledge of modern CSS techniques and tooling",
+				"Passion for developer experience"
+			],
+			"benefits": [
+				"Competitive salary",
+				"Equity options",
+				"Fully remote",
+				"Home office stipend",
+				"Health insurance",
+				"Conference & learning budget"
+			],
+			"salary": "$110,000 – $145,000",
+			"isFeatured": true,
+			"createdAt": "2026-01-30T00:00:00.000Z",
+			"updatedAt": "2026-01-30T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0010-4000-8000-000000000010",
+			"title": "Sales Development Representative",
+			"company": "Maze",
+			"companyLogoUrl": null,
+			"location": "Paris, France",
+			"category": "Sales",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Sales",
+				"Marketing"
+			],
+			"description": "Maze is hiring an SDR to drive top-of-funnel growth by identifying and qualifying high-value leads for our product research platform. We are looking for a talented Sales Development Representative to join the Maze team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Sales Development Representative, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"1–3 years of SDR or sales experience",
+				"Strong interpersonal and communication skills",
+				"Experience with CRM software (Salesforce preferred)",
+				"Ability to handle objections and persist through challenges",
+				"Goal-oriented with a competitive mindset",
+				"SaaS experience is a plus"
+			],
+			"benefits": [
+				"Base salary + commission",
+				"Equity",
+				"Remote-first",
+				"International team",
+				"Health coverage",
+				"Quarterly team events"
+			],
+			"salary": "$50,000 – $70,000 + commission",
+			"isFeatured": false,
+			"createdAt": "2026-01-28T00:00:00.000Z",
+			"updatedAt": "2026-01-28T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0011-4000-8000-000000000011",
+			"title": "Infrastructure Engineer",
+			"company": "Terraform",
+			"companyLogoUrl": null,
+			"location": "Berlin, Germany",
+			"category": "Engineering",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Engineering",
+				"Technology"
+			],
+			"description": "Terraform is looking for an Infrastructure Engineer to architect and manage scalable, reliable cloud infrastructure for our growing platform. We are looking for a talented Infrastructure Engineer to join the Terraform team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs an Infrastructure Engineer, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"5+ years of infrastructure / DevOps experience",
+				"Expertise with AWS, GCP, or Azure",
+				"Proficiency in Infrastructure-as-Code (Terraform, Pulumi)",
+				"Experience with Kubernetes and Docker",
+				"Strong Linux systems administration background",
+				"Security-conscious approach to infrastructure design"
+			],
+			"benefits": [
+				"Top-tier salary",
+				"Generous equity",
+				"Fully remote",
+				"Hardware budget",
+				"Health & wellness allowance",
+				"Flexible PTO"
+			],
+			"salary": "$120,000 – $155,000",
+			"isFeatured": false,
+			"createdAt": "2026-01-25T00:00:00.000Z",
+			"updatedAt": "2026-01-25T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0012-4000-8000-000000000012",
+			"title": "Instructional Designer",
+			"company": "Udacity",
+			"companyLogoUrl": null,
+			"location": "Munich, Germany",
+			"category": "Education",
+			"employmentType": "Part-Time",
+			"tags": [
+				"Design",
+				"Business"
+			],
+			"description": "Udacity is seeking an Instructional Designer to create engaging, effective learning experiences for thousands of students worldwide. We are looking for a talented Instructional Designer to join the Udacity team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs an Instructional Designer, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"3+ years of instructional design or eLearning development",
+				"Familiarity with ADDIE or SAM instructional design models",
+				"Experience with authoring tools (Articulate, Adobe Captivate)",
+				"Strong project management and communication skills",
+				"Ability to translate technical content into learner-friendly formats",
+				"Background in adult learning principles"
+			],
+			"benefits": [
+				"Part-time flexible schedule",
+				"Free Udacity courses",
+				"Remote work",
+				"Collaborative team environment",
+				"Stipend for tools and resources"
+			],
+			"salary": "$45,000 – $60,000",
+			"isFeatured": false,
+			"createdAt": "2026-01-22T00:00:00.000Z",
+			"updatedAt": "2026-01-22T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0013-4000-8000-000000000013",
+			"title": "HR Business Partner",
+			"company": "Packer",
+			"companyLogoUrl": null,
+			"location": "Berlin, Germany",
+			"category": "Human Resources",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Human Resources",
+				"Business"
+			],
+			"description": "Packer is looking for an HR Business Partner to foster a high-performing, inclusive culture and support leadership with strategic people initiatives. We are looking for a talented HR Business Partner to join the Packer team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs an HR Business Partner, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"5+ years of HR generalist or HRBP experience",
+				"Deep knowledge of employment law (EU preferred)",
+				"Strong coaching and conflict-resolution skills",
+				"Experience with performance management systems",
+				"Data-driven approach to HR decisions",
+				"Exceptional interpersonal and communication skills"
+			],
+			"benefits": [
+				"Competitive salary",
+				"Hybrid work model",
+				"Comprehensive health plan",
+				"Professional HR certification support",
+				"Paid parental leave",
+				"Team social events"
+			],
+			"salary": "$75,000 – $95,000",
+			"isFeatured": false,
+			"createdAt": "2026-01-18T00:00:00.000Z",
+			"updatedAt": "2026-01-18T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0014-4000-8000-000000000014",
+			"title": "Full Stack Developer",
+			"company": "Webflow",
+			"companyLogoUrl": null,
+			"location": "Amsterdam, Netherlands",
+			"category": "Engineering",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Technology",
+				"Engineering"
+			],
+			"description": "Webflow is hiring a Full Stack Developer to build powerful features that empower designers and developers to create the web without code. We are looking for a talented Full Stack Developer to join the Webflow team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Full Stack Developer, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"5+ years of full-stack development experience",
+				"Proficiency in Node.js, React, and TypeScript",
+				"Experience with PostgreSQL and NoSQL databases",
+				"Understanding of REST APIs and GraphQL",
+				"Passion for web standards and accessibility",
+				"Strong problem-solving and debugging skills"
+			],
+			"benefits": [
+				"Competitive salary + equity",
+				"Remote-first culture",
+				"Health, dental, and vision",
+				"401(k) with match",
+				"Generous PTO",
+				"Annual team offsite"
+			],
+			"salary": "$115,000 – $150,000",
+			"isFeatured": true,
+			"createdAt": "2026-01-15T00:00:00.000Z",
+			"updatedAt": "2026-01-15T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0015-4000-8000-000000000015",
+			"title": "Financial Analyst",
+			"company": "Nomad",
+			"companyLogoUrl": null,
+			"location": "London, UK",
+			"category": "Finance",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Finance",
+				"Business"
+			],
+			"description": "Nomad is seeking a Financial Analyst to build models, analyse performance metrics, and provide strategic guidance to our leadership team. We are looking for a talented Financial Analyst to join the Nomad team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Financial Analyst, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"3+ years of financial analysis or investment banking experience",
+				"Advanced Excel and financial modelling skills",
+				"Experience with ERP systems (SAP, Oracle, or similar)",
+				"CFA candidate or qualified preferred",
+				"Strong attention to detail and accuracy",
+				"Excellent presentation and communication skills"
+			],
+			"benefits": [
+				"Competitive salary",
+				"Annual bonus",
+				"Remote-compatible role",
+				"Health insurance",
+				"Learning & certification support",
+				"Collaborative team environment"
+			],
+			"salary": "$85,000 – $110,000",
+			"isFeatured": false,
+			"createdAt": "2026-01-12T00:00:00.000Z",
+			"updatedAt": "2026-01-12T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0016-4000-8000-000000000016",
+			"title": "Recruiter",
+			"company": "Canva",
+			"companyLogoUrl": null,
+			"location": "Toronto, Canada",
+			"category": "Human Resources",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Human Resources",
+				"Sales"
+			],
+			"description": "Canva is hiring a Recruiter to attract and hire world-class talent to help us achieve our mission of empowering the world to design. We are looking for a talented Recruiter to join the Canva team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Recruiter, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"3+ years of full-cycle recruiting experience",
+				"Experience hiring for technical and non-technical roles",
+				"Proficiency with ATS systems (Greenhouse, Lever, or similar)",
+				"Strong sourcing strategies (Boolean, LinkedIn Recruiter, etc.)",
+				"Excellent candidate experience mindset",
+				"Ability to manage multiple requisitions simultaneously"
+			],
+			"benefits": [
+				"Competitive salary",
+				"Equity package",
+				"Unlimited Canva Pro",
+				"Flexible work arrangements",
+				"Health & wellness perks",
+				"International team culture"
+			],
+			"salary": "$70,000 – $90,000",
+			"isFeatured": false,
+			"createdAt": "2026-01-10T00:00:00.000Z",
+			"updatedAt": "2026-01-10T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0017-4000-8000-000000000017",
+			"title": "Backend Engineer",
+			"company": "Revolut",
+			"companyLogoUrl": null,
+			"location": "London, UK",
+			"category": "Engineering",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Engineering",
+				"Technology"
+			],
+			"description": "Revolut is looking for a Backend Engineer to design and build the highly scalable systems that power global financial services for millions of users. We are looking for a talented Backend Engineer to join the Revolut team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Backend Engineer, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"5+ years of backend engineering experience",
+				"Strong proficiency in Java, Kotlin, or Go",
+				"Experience with microservices and distributed systems",
+				"Understanding of financial domain and compliance",
+				"Familiarity with event-driven architectures (Kafka, RabbitMQ)",
+				"Commitment to code quality and testing"
+			],
+			"benefits": [
+				"Top-tier compensation",
+				"Stock options",
+				"Global mobility options",
+				"Private health insurance",
+				"Mental health support",
+				"Learning budget"
+			],
+			"salary": "$130,000 – $165,000",
+			"isFeatured": false,
+			"createdAt": "2026-01-08T00:00:00.000Z",
+			"updatedAt": "2026-01-08T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0018-4000-8000-000000000018",
+			"title": "Account Executive",
+			"company": "Pitch",
+			"companyLogoUrl": null,
+			"location": "Berlin, Germany",
+			"category": "Sales",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Sales",
+				"Business"
+			],
+			"description": "Pitch is looking for an Account Executive to close enterprise deals and build lasting relationships with key accounts across Europe. We are looking for a talented Account Executive to join the Pitch team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs an Account Executive, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"4+ years of B2B SaaS sales experience",
+				"Proven track record of exceeding quota",
+				"Excellent negotiation and closing skills",
+				"Familiarity with MEDDIC or similar sales methodologies",
+				"Experience managing complex enterprise sales cycles",
+				"Strong written and verbal communication in English (German a plus)"
+			],
+			"benefits": [
+				"Competitive base + uncapped commission",
+				"Equity",
+				"Flexible hybrid work",
+				"International sales team",
+				"Health coverage",
+				"Company events & offsites"
+			],
+			"salary": "$90,000 – $120,000 + commission",
+			"isFeatured": false,
+			"createdAt": "2026-01-05T00:00:00.000Z",
+			"updatedAt": "2026-01-05T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0019-4000-8000-000000000019",
+			"title": "Content Marketing Manager",
+			"company": "Udacity",
+			"companyLogoUrl": null,
+			"location": "Paris, France",
+			"category": "Marketing",
+			"employmentType": "Full-Time",
+			"tags": [
+				"Marketing",
+				"Business"
+			],
+			"description": "Udacity is seeking a Content Marketing Manager to develop and execute content strategies that attract, engage, and convert learners globally. We are looking for a talented Content Marketing Manager to join the Udacity team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Content Marketing Manager, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"4+ years of content marketing experience",
+				"Excellent writing and editing skills",
+				"SEO knowledge and experience with content analytics",
+				"Ability to manage content calendars and editorial workflows",
+				"Experience with CDNs, CMS platforms, and email marketing",
+				"Creative storytelling ability across multiple formats"
+			],
+			"benefits": [
+				"Competitive salary",
+				"Fully remote",
+				"Free Udacity Nanodegree programs",
+				"Health benefits",
+				"Career growth opportunities",
+				"Collaborative global team"
+			],
+			"salary": "$75,000 – $100,000",
+			"isFeatured": false,
+			"createdAt": "2026-01-03T00:00:00.000Z",
+			"updatedAt": "2026-01-03T00:00:00.000Z"
+		},
+		{
+			"id": "a1b2c3d4-0020-4000-8000-000000000020",
+			"title": "Finance Operations Intern",
+			"company": "Webflow",
+			"companyLogoUrl": null,
+			"location": "Munich, Germany",
+			"category": "Finance",
+			"employmentType": "Internship",
+			"tags": [
+				"Finance",
+				"Business"
+			],
+			"description": "Webflow is offering an internship in Finance Operations for a motivated student eager to gain hands-on experience in a fast-growing tech company. We are looking for a talented Finance Operations Intern to join the Webflow team. You'll work closely with cross-functional teams to deliver impactful solutions that shape how millions of users experience our product.\n\nAs a Finance Operations Intern, you will be responsible for driving initiatives from concept through execution.",
+			"requirements": [
+				"Currently enrolled in a Finance, Accounting, or related degree",
+				"Basic understanding of accounting principles",
+				"Proficiency in Excel or Google Sheets",
+				"Strong attention to detail",
+				"Eagerness to learn in a fast-paced environment",
+				"Good communication skills"
+			],
+			"benefits": [
+				"Paid internship",
+				"Mentorship from senior finance team",
+				"Remote-flexible",
+				"Potential for full-time offer",
+				"Certificate of completion"
+			],
+			"salary": "$25/hr",
+			"isFeatured": false,
+			"createdAt": "2026-01-01T00:00:00.000Z",
+			"updatedAt": "2026-01-01T00:00:00.000Z"
+		}
+	]
+}

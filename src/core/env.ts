@@ -6,6 +6,7 @@ const allSecretsEnvSchema = z.object({
 	AUTH_SECRET: validateString('AUTH_SECRET'),
 	CSRF_SECRET: validateString('CSRF_SECRET'),
 	CRYPTO_SECRET: validateString('CRYPTO_SECRET'),
+	REVALIDATE_SECRET: validateString('REVALIDATE_SECRET'),
 });
 
 const googleEnvSchema = z.object({

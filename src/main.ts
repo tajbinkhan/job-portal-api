@@ -32,7 +32,7 @@ async function bootstrap() {
 			}
 		},
 		credentials: true,
-		methods: ['GET', 'POST', 'PUT', 'DELETE'],
+		methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
 		allowedHeaders: ['Content-Type', 'Authorization', 'x-csrf-token', 'ngrok-skip-browser-warning'],
 		maxAge: 3600,
 	});

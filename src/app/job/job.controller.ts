@@ -33,6 +33,23 @@ import { JobService } from './job.service';
 export class JobController {
 	constructor(private readonly jobService: JobService) {}
 
+	private triggerRevalidation(tags: string[]): void {
+		const url = `${process.env.APP_URL}/api/revalidate`;
+		const secret = process.env.REVALIDATE_SECRET ?? '';
+		for (const tag of tags) {
+			fetch(url, {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json',
+					'x-revalidate-secret': secret,
+				},
+				body: JSON.stringify({ tag }),
+			}).catch(err => {
+				console.error(`[Revalidate] Failed to purge tag "${tag}":`, err);
+			});
+		}
+	}
+
 	@Get()
 	async findAll(@Query() query: JobQueryDto): Promise<ApiResponse<JobSchemaType[]>> {
 		const validate = jobQuerySchema.safeParse(query);
@@ -81,6 +98,8 @@ export class JobController {
 
 		const job = await this.jobService.createJob(validate.data);
 
+		this.triggerRevalidation(['jobs']);
+
 		return createApiResponse(HttpStatus.CREATED, 'Job created successfully', job);
 	}
 
@@ -105,6 +124,8 @@ export class JobController {
 
 		const job = await this.jobService.updateJob(idValidate.data, bodyValidate.data);
 
+		this.triggerRevalidation(['jobs', `job-${idValidate.data}`]);
+
 		return createApiResponse(HttpStatus.OK, 'Job updated successfully', job);
 	}
 
@@ -118,6 +139,8 @@ export class JobController {
 		}
 
 		await this.jobService.deleteJob(validate.data);
+
+		this.triggerRevalidation(['jobs', `job-${validate.data}`]);
 
 		return createApiResponse(HttpStatus.OK, 'Job deleted successfully', null);
 	}

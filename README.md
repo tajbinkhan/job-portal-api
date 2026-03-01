@@ -143,10 +143,25 @@ database (no migration files generated). Use this for local development.
 ### 6. (Optional) Seed the database
 
 ```bash
+# Seed sample job listings
 pnpm db:seed
+
+# Create an admin user (required to access the dashboard)
+pnpm db:seed:admin
 ```
 
-Populates the database with sample jobs and user data from `seed.json`.
+`pnpm db:seed` populates the database with sample job listings from `seed.json`.
+
+`pnpm db:seed:admin` creates a default admin account. Credentials can be customised via environment
+variables before running the command:
+
+| Variable         | Default               | Description                |
+| ---------------- | --------------------- | -------------------------- |
+| `ADMIN_EMAIL`    | `admin@quickhire.com` | Admin account email        |
+| `ADMIN_PASSWORD` | `Admin@1234`          | Admin account password     |
+| `ADMIN_NAME`     | `Admin`               | Display name for the admin |
+
+> **Important:** Change the default password before deploying to production.
 
 ### 7. Start the development server
 
@@ -190,8 +205,11 @@ pnpm db:migrate
 # Push schema changes directly (no migration files — dev only)
 pnpm db:push
 
-# Seed the database with sample data
+# Seed the database with sample job listings
 pnpm db:seed
+
+# Create the default admin user
+pnpm db:seed:admin
 
 # Clear all data from the database
 pnpm db:clear
@@ -201,20 +219,21 @@ pnpm db:clear
 
 ## Available Scripts
 
-| Script             | Description                       |
-| ------------------ | --------------------------------- |
-| `pnpm dev`         | Start in watch/hot-reload mode    |
-| `pnpm start`       | Start without watch               |
-| `pnpm build`       | Compile TypeScript to `dist/`     |
-| `pnpm prod`        | Run the compiled production build |
-| `pnpm format`      | Format all files with Prettier    |
-| `pnpm lint`        | Lint and auto-fix with ESLint     |
-| `pnpm db:push`     | Push schema to database (dev)     |
-| `pnpm db:generate` | Generate Drizzle migration files  |
-| `pnpm db:migrate`  | Apply migration files to database |
-| `pnpm db:studio`   | Open Drizzle Studio GUI           |
-| `pnpm db:seed`     | Seed database with sample data    |
-| `pnpm db:clear`    | Wipe all data from the database   |
+| Script               | Description                            |
+| -------------------- | -------------------------------------- |
+| `pnpm dev`           | Start in watch/hot-reload mode         |
+| `pnpm start`         | Start without watch                    |
+| `pnpm build`         | Compile TypeScript to `dist/`          |
+| `pnpm prod`          | Run the compiled production build      |
+| `pnpm format`        | Format all files with Prettier         |
+| `pnpm lint`          | Lint and auto-fix with ESLint          |
+| `pnpm db:push`       | Push schema to database (dev)          |
+| `pnpm db:generate`   | Generate Drizzle migration files       |
+| `pnpm db:migrate`    | Apply migration files to database      |
+| `pnpm db:studio`     | Open Drizzle Studio GUI                |
+| `pnpm db:seed`       | Seed database with sample job listings |
+| `pnpm db:seed:admin` | Create the default admin user          |
+| `pnpm db:clear`      | Wipe all data from the database        |
 
 ---
 

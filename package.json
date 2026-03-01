@@ -14,6 +14,7 @@
 		"predb:push": "node update‑schema.mjs",
 		"predb:clear": "node update‑schema.mjs",
 		"predb:seed": "node update‑schema.mjs",
+		"predb:seed:admin": "node update‑schema.mjs",
 		"build": "nest build",
 		"format": "prettier --write .",
 		"start": "nest start",
@@ -26,7 +27,8 @@
 		"db:migrate": "drizzle-kit migrate",
 		"db:push": "drizzle-kit push",
 		"db:clear": "ts-node src/database/clean.ts",
-		"db:seed": "ts-node src/database/seed.ts"
+		"db:seed": "ts-node src/database/seed.ts",
+		"db:seed:admin": "ts-node src/database/seed-admin.ts"
 	},
 	"dependencies": {
 		"@nestjs/common": "^11.1.12",

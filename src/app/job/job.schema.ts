@@ -60,6 +60,16 @@ export const createApplicationSchema = z.object({
 });
 
 /* =========================
+   APPLICATION LIST QUERY SCHEMA
+========================= */
+
+const applicationSortableFields = [{ name: 'createdAt', queryName: 'createdAt' }] as const;
+
+export const applicationQuerySchema = baseQuerySchema(applicationSortableFields).extend({
+	jobId: validateUUID('Job ID').optional(),
+});
+
+/* =========================
    INFERRED TYPES
 ========================= */
 
@@ -67,3 +77,4 @@ export type CreateJobDto = z.infer<typeof createJobSchema>;
 export type UpdateJobDto = z.infer<typeof updateJobSchema>;
 export type JobQueryDto = z.infer<typeof jobQuerySchema>;
 export type CreateApplicationDto = z.infer<typeof createApplicationSchema>;
+export type ApplicationQueryDto = z.infer<typeof applicationQuerySchema>;

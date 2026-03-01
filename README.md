@@ -49,7 +49,7 @@ modern TypeScript tooling and production-ready best practices.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/tajbinkhan/job-portal-api.git
 cd interview-backend
 ```
 

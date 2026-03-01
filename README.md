@@ -111,12 +111,25 @@ GOOGLE_CALLBACK_URL=http://localhost:8080/auth/google/callback
 
 ### 4. Start the PostgreSQL database
 
+No `docker-compose.yml` is included in this repository. Start PostgreSQL using whichever method
+suits your setup:
+
+**Option A — Docker one-liner:**
+
 ```bash
-docker-compose up -d
+docker run -d \
+  --name job_board_db \
+  -e POSTGRES_USER=job_board \
+  -e POSTGRES_PASSWORD=job_board \
+  -e POSTGRES_DB=job_board \
+  -p 5432:5432 \
+  postgres:16
 ```
 
-This starts a PostgreSQL instance using the credentials defined in your `.env` file. Verify it is
-running with `docker ps`.
+**Option B — Local PostgreSQL installation:** Ensure a PostgreSQL instance is running and a database
+matching your `DATABASE_URL` credentials exists.
+
+Verify the container or service is running before proceeding.
 
 ### 5. Push the database schema
 

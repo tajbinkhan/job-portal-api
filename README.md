@@ -87,7 +87,7 @@ DATABASE_URL="postgresql://job_board:job_board@localhost:5432/job_board"
 AUTH_SECRET=your_super_secret_auth_key_here
 CSRF_SECRET=your_super_secret_csrf_key_here
 CRYPTO_SECRET=your_super_secret_crypto_key_here
-
+REVALIDATE_SECRET=your_shared_revalidate_secret_here  # Must match the frontend REVALIDATE_SECRET
 # ──────────────────────────────
 # Cookies
 # ──────────────────────────────

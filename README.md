@@ -50,7 +50,7 @@ modern TypeScript tooling and production-ready best practices.
 
 ```bash
 git clone https://github.com/tajbinkhan/job-portal-api.git
-cd interview-backend
+cd job-portal-api
 ```
 
 ### 2. Install dependencies
